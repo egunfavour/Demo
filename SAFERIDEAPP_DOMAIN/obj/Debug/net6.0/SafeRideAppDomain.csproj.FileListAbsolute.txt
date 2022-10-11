@@ -1,0 +1,12 @@
+C:\Users\solan\Source\Repos\SafeRide\SAFERIDEAPP_DOMAIN\bin\Debug\net6.0\SafeRideAppDomain.deps.json
+C:\Users\solan\Source\Repos\SafeRide\SAFERIDEAPP_DOMAIN\bin\Debug\net6.0\SafeRideAppDomain.dll
+C:\Users\solan\Source\Repos\SafeRide\SAFERIDEAPP_DOMAIN\bin\Debug\net6.0\SafeRideAppDomain.pdb
+C:\Users\solan\Source\Repos\SafeRide\SAFERIDEAPP_DOMAIN\obj\Debug\net6.0\SafeRideAppDomain.csproj.AssemblyReference.cache
+C:\Users\solan\Source\Repos\SafeRide\SAFERIDEAPP_DOMAIN\obj\Debug\net6.0\SafeRideAppDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Source\Repos\SafeRide\SAFERIDEAPP_DOMAIN\obj\Debug\net6.0\SafeRideAppDomain.AssemblyInfoInputs.cache
+C:\Users\solan\Source\Repos\SafeRide\SAFERIDEAPP_DOMAIN\obj\Debug\net6.0\SafeRideAppDomain.AssemblyInfo.cs
+C:\Users\solan\Source\Repos\SafeRide\SAFERIDEAPP_DOMAIN\obj\Debug\net6.0\SafeRideAppDomain.csproj.CoreCompileInputs.cache
+C:\Users\solan\Source\Repos\SafeRide\SAFERIDEAPP_DOMAIN\obj\Debug\net6.0\SafeRideAppDomain.dll
+C:\Users\solan\Source\Repos\SafeRide\SAFERIDEAPP_DOMAIN\obj\Debug\net6.0\refint\SafeRideAppDomain.dll
+C:\Users\solan\Source\Repos\SafeRide\SAFERIDEAPP_DOMAIN\obj\Debug\net6.0\SafeRideAppDomain.pdb
+C:\Users\solan\Source\Repos\SafeRide\SAFERIDEAPP_DOMAIN\obj\Debug\net6.0\ref\SafeRideAppDomain.dll
